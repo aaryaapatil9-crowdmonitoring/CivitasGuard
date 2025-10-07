@@ -4,7 +4,7 @@ An integrated IoT system that utilizes real-time people counting, touchless fire
 ## 👥 Team Details
 
 | **Team Name** | CivitasGuard |
-| **Project Name** | Smart Crowd Monitoring & Safety Management System |
+| **Project Name** | CivitasGuard-Smart Crowd Monitoring & Safety Management System |
 | **Team Member** | Aarya Patil |
 | **Year** | second year |
 | **Branch** | Data Science Engineering |
